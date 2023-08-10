@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 264998fa2262a5f449dfd81f158ebc4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyAttackEffect: {fileID: 5886686677729317686, guid: d595d7f812f01d245a15ca60958e643d, type: 3}
+  - enemyAttackAudio: {fileID: 8300000, guid: bac1a51398975064387c1a16ab57c44f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

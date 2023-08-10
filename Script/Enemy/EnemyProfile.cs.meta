@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca9ef85c7ab8dcb4382064de8868f747
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dropMoneyUI: {fileID: 6836021945242251908, guid: 23fba8aaa379db448b9bd8a3cdd00068, type: 3}
+  - deadEffect: {instanceID: 0}
+  - attackedAudio: {instanceID: 0}
+  - dropMoneyAudio: {fileID: 8300000, guid: d03a12885f7a9784e856873ea05be9b8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
