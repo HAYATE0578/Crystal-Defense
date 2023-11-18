@@ -1,7 +1,9 @@
 # CrystalDefense
 ## At the begining/写在开始/はじめに
 Due to the large size of the Asset resource package and copyright, only the C# script is provided here. To play the game, please click the release button to download. →  
+
 由于Asset资源包巨大以及版权问题，仅提供C#的脚本。试玩请点击release按钮下载。→  
+
 Assetのリソースパッケージが非常に大きく、著作権を守るためC#スクリプトのみ提供。ゲームをプレイするには、releaseボタンでダウンロードしてください。→  
 
 ## As a game/游戏/ゲーム
