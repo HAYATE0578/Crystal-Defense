@@ -1,15 +1,16 @@
 # CrystalDefense
 
-Download URL: https://drive.google.com/file/d/1zX0sYKeGj6qbQl_ePODy1lKYnsq260T6/view?usp=drive_link
-
+## As a game/游戏/ゲーム
 The towerDenfense demo is designed by Unity.  
 这是一个Unity做的塔防游戏。  
 ユニティで作ったタワーディフェンスゲームです。  
 
+## Profile/简介/プロフィール
 You can choose 5 types of towers to protect crystal.  
 您可以从本游戏中选择5种塔来保卫水晶（基地）。  
 五つのタワーが選択可能で、タワーでクリスタールを守ろう。 
 
+## How to play/玩法/遊び方
 1．You can click the tower button and then click an empty cube to build a tower,upgrade it in the same way by the same price.(BrightLance cannot be upgraded)  
 2．WASD to shift the camera，mouse right down to rotate it.  
 3．If you have money more than $500，you can press HP+ button to recover 1HP by using half Of your money.  
