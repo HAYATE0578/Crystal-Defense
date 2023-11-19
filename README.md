@@ -1,4 +1,6 @@
 # CrystalDefense
+![CrystalDefense](https://github.com/HAYATE0578/CrystalDefense/assets/78299959/c2648e82-30be-4067-a795-9bc100e2cc95)
+
 ## At the begining/写在开始/はじめに
 Due to the large size of the Asset resource package and copyright, only the C# script is provided here. To play the game, please click the release button to download. →  
 
