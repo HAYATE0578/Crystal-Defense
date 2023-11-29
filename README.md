@@ -9,7 +9,7 @@ Due to the large size of the Asset resource package and copyright, only the C# s
 Assetのリソースパッケージが非常に大きく、著作権を守るためC#スクリプトのみ提供。ゲームをプレイするには、releaseボタンでダウンロードしてください。→  
 
 ## As a game/游戏/ゲーム
-The towerDenfense demo is designed by Unity.  
+The towerDenfense demo is made witC Unity.  
 这是一个Unity做的塔防游戏。  
 ユニティで作ったタワーディフェンスゲームです。  
 
